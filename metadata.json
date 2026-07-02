@@ -1,0 +1,6 @@
+{
+  "name": "Miciny Studio",
+  "description": "Sleek, fast, and precise Android tools and apps that strike first on the Google Play Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
